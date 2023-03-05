@@ -1,0 +1,7 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.8.5
+#@/tick	1
+#@/user_id	ada37d3d-ab33-43ac-a2fa-81cbdb6b3619
+pei zhi 	配置	c=1 d=1 t=1
