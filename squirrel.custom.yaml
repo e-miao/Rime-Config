@@ -56,6 +56,7 @@ patch:
 # 如果想要修改皮肤，直接更改 color_scheme 的值即可
   style:
     color_scheme:  mac_dark
+    color_scheme_dark:  mac_light
   preset_color_schemes:
     ifanrblack:
       author: "Astrian Zheng"

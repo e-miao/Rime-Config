@@ -1,10 +1,12 @@
 var:
-  last_build_time: 1678002035
+  last_build_time: 1678016421
   option:
+    ascii_punct: true
+    full_shape: false
     simplification: true
   previously_selected_schema: double_pinyin_mspy
   schema_access_time:
     double_pinyin_abc: 1677929631
-    double_pinyin_mspy: 1677999134
-    luna_pinyin: 1677930155
+    double_pinyin_mspy: 1678016237
+    luna_pinyin: 1678016056
     terra_pinyin: 1677930148
