@@ -148,3 +148,11 @@ recognizer:
   import_preset: default
   patterns:
     reverse_lookup: "`[a-z]*'?$"
+
+emoji_suggestion:
+  opencc_config: emoji.json
+  option_name: emoji_suggestion
+
+__include: grammar:/hant
+# Rx: BlindingDark/rime-lua-select-character:customize:schema=luna_pinyin {
+__include: lua_select_character:/patch
